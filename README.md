@@ -1,4 +1,4 @@
-# ProtoTypeDesignPattren
+# ProtoType Design Pattren => Creational
 
 Gang of Four Definition : "Prototype Design Pattern Specify the kind of objects to create using a prototypical instance, and create new objects by copying this prototype"
 
